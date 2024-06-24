@@ -1,0 +1,10 @@
+# Ignore all .exe and .dsym files
+*.exe
+*.dsym
+
+# Ignore specific files and directories
+main
+.vscode/
+lib/
+preview.jpg
+main.code-workspace
