@@ -14,6 +14,14 @@ After downloading the project (and setting up the Raylib library), open the `mai
 
 Press Space to start the game.
 
-One player controls the snake with W, A, S, D and the other one controls it with arrow keys. Eat the appearing food to enlarge your snake. If your snake collides with itself, map edges or the opponent's snake, you lose and the other player wins. If both snakes collide (with map edges or any snake body) at the same time, the game ends in a draw.
+One player controls the snake with W, A, S, D and the other one controls it with arrow keys. Eat the appearing food to enlarge your snake. If your snake collides with (any of the following):
+
+-   itself
+-   map edges
+-   the opponent's snake
+
+you lose and the other player wins. If both snakes collide (with map edges or any snake body) at the same time, the game ends in a draw.
 
 More updates on how to install the game will be provided here later.
+
+Sample change on another git branch.
