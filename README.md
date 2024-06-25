@@ -25,3 +25,5 @@ you lose and the other player wins. If both snakes collide (with map edges or an
 More updates on how to install the game will be provided here later.
 
 Sample change on another git branch.
+
+[Continue GIT Tutorial: 28:55]
