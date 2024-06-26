@@ -20,7 +20,7 @@ One player controls the snake with W, A, S, D and the other one controls it with
 -   map edges
 -   the opponent's snake
 
-you lose and the other player wins. If both snakes collide (with map edges or any snake body) at the same time, the game ends in a draw.
+you lose and the other player wins. _A CHANGE IN UPDATETEXT BRANCH_ If both snakes collide (with map edges or any snake body) at the same time, the game ends in a draw.
 
 More updates on how to install the game will be provided here later.
 
