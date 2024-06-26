@@ -4,7 +4,4 @@
 
 # Ignore specific files and directories
 main
-.vscode/
-lib/
 preview.jpg
-main.code-workspace

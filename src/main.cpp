@@ -5,7 +5,7 @@
 
 #define X_CELL_COUNT 25 // 15
 #define Y_CELL_COUNT 30 // 20
-#define CELL_SIZE 50    // 50
+#define CELL_SIZE 20    // 50
 
 main()
 {
